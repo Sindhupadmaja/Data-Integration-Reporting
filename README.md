@@ -26,8 +26,3 @@ Open `http://127.0.0.1:8000/docs`.
 pytest -q
 ```
 
-## Portfolio progression
-This project is intentionally structured so you can learn it from the fundamentals upward. Start with the README, run the tests, inspect `app/`, then improve one layer at a time.
-
-## Environment
-Copy `.env.example` to `.env` and change values for a real deployment. Never commit secrets.

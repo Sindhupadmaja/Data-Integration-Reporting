@@ -1,0 +1,9 @@
+__pycache__/
+.venv/
+venv/
+*.db
+reports/
+data/finance_export.csv
+data/crm_feed.json
+.pytest_cache/
+.coverage
